@@ -1,4 +1,4 @@
-## LEGEND MUSIC USERBOT 
+## SHERIF MUSIC USERBOT 
 
 
 ## 🚀 <a name="deploy"></a>Deploy
@@ -8,11 +8,11 @@
 
 -------------
 
-## [REPL](https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py)
+## [REPL](https://replit.com/@Sherif-Sami/PRO-LEGENDBOT#main.py)
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/LEGEND-AI/LEGEND-MUSIC
+$ git clone https://github.com/Sherif-Hacker/LEGEND-MUSIC
 $ cd LEGEND-MUSIC
 $ cp sample.env .env
 < edit .env with your own values >
