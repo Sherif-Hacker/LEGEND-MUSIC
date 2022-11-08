@@ -3,7 +3,7 @@
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-- [![Deploy](https://te.legra.ph/file/5532de782efaf0acfe7c3.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/5532de782efaf0acfe7c3.jpg)](https://heroku.com/deploy?template=https://github.com/Sherif-Hacker/LEGEND-MUSIC)
 
 
 -------------
@@ -61,5 +61,4 @@ en    English
 
 ## 📃 <a name="license"></a>License
 
-Music Player is licenced under the GNU Affero General Public License v3.0.
-Read more [here](./LICENSE).
+Sherif Music Player Made by Sherif Sami [My Telegram Account](https://t.me/Sherif_Sami).
