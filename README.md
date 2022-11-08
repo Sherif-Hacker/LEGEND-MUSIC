@@ -61,4 +61,4 @@ en    English
 
 ## 📃 <a name="license"></a>License
 
-Sherif Music Player Made by Sherif Sami [My Telegram Account](https://t.me/Sherif_Sami).
+Sherif Music Player Made by Sherif Sami my [Telegram Account](https://t.me/Sherif_Sami).
