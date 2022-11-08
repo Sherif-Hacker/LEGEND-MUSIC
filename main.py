@@ -19,7 +19,8 @@ from core import (
 
 
 REPO = """
-👨‍💻**Sherif Music Player**👨‍💻
+👨‍💻**Sherif Music Player**
+
 - Repo: [GitHub](https://github.com/Sherif-Hacker/LEGEND-MUSIC)
 - Telegram: [Owner](https://t.me/Sherif_Sami)
 """
@@ -49,7 +50,7 @@ async def repo(_, message: Message):
 )
 @handle_error
 async def ping(_, message: Message):
-    await message.reply_text(f"**Pong** »»» \n`{await pytgcalls.ping} ms`")
+    await message.reply_text(f"🟢 **Pong** » `{await pytgcalls.ping} ms`")
 
 
 @client.on_message(
